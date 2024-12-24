@@ -1,1 +1,1 @@
-# Some simples calculations examples for small php projects
+### Some simples calculations examples for small php projects
